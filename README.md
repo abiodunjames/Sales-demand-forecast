@@ -28,3 +28,6 @@ In this [notebook](./Sales_demand_forecast.ipynb), you'll learn how to predict s
 - Demand forcast for product `pet_shop` from September 1st to September 17th
 
 ![](https://res.cloudinary.com/samueljames/image/upload/v1602312339/Screenshot_2020-10-10_at_08.45.07.png)
+
+### Notebook
+The notebook used for this tutorial can be found [here](./Sales_demand_forecast.ipynb)
