@@ -3,7 +3,7 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Forecasting) defines Forecasting as the process of making predictions of the future based on past and present data and most commonly by analysis of trends. History is filled with humans making predictions by looking at trends and drawing conclusions from patterns. 
 
-For businesses, the ability to forecast the future and make an informed business decision is critical to their survival.  
+For businesses, the ability to forecast the future and make  informed business decisions is critical to their survival.  
 Many organizations' traditional methods of generating forecasts from historical data often struggle to generate an accurate prediction from large data and data with irregular trends. 
 
 For eCommerce stores, the ability to predict demand accurately is a critical need.  They need to know how many inventory store units to have at hand to be at full stock for each product at a given time.  A low inventory level increases the risk of having a stock out, and a tool high inventory level increases the cost related to handling inventory.
