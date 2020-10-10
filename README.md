@@ -22,5 +22,9 @@ The big question stands: can recent advances in machine learning help retailers 
 
 In this [notebook](./Sales_demand_forecast.ipynb), you'll learn how to predict sales demand using AWS Forecast. It's important to know that the workflow demonstrated in this notebook from data preprocessing to training a predictor can be fully automated.
 
-Demand forcast for product `moveis_decoracao` from September 01 to September 07
+- Demand forcast for product `moveis_decoracao` from September 1st to September 17th
 ![](https://res.cloudinary.com/samueljames/image/upload/v1602065910/Screenshot_2020-10-07_at_12.18.08.png)
+
+- Demand forcast for product `pet_shop` from September 1st to September 17th
+
+![](https://res.cloudinary.com/samueljames/image/upload/v1602312339/Screenshot_2020-10-10_at_08.45.07.png)
